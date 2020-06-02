@@ -6,6 +6,18 @@
     padding:            1em;
 }
 
+
+
+.caption {
+    display: block;
+    clear: left;
+}
+
+li{
+    margin: 10px 0;
+  }
+
+
 #footer {
     text-align:         center;
 }
@@ -27,9 +39,10 @@ img {
     border:             2px dashed #333;
     background-color:   #fff;
     color:              #000;
-    height:             8em;
-    float:              right;
-    margin-left:        1em;
+    height:             10em;
+    float:              left;
+    margin-top:         1em;
+    margin-left:        0em;
 }
 
 pre {
